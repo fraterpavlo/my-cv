@@ -11,22 +11,22 @@ I develop applications using React, Typescript, Next.JS, Redux and other technol
 ## Work Experience:
 
 * dev.family
-Minsk, dev.family 👨‍💻
-October 2022 — April 2023 (7 months)
-Frontend-developer
-Developed projects based on layouts and those tasks. Optimized the code to ensure that it works at an optimal level of performance. Debugging and fixing problems as they occur.
+ Minsk, dev.family 👨‍💻
+ October 2022 — April 2023 (7 months)
+ Frontend-developer
+ Developed projects based on layouts and those tasks. Optimized the code to ensure that it works at an optimal level of performance. Debugging and fixing problems as they occur.
 
 * RS School React course 👨‍🎓
-rs.school
-October 2022 — December 2022 (3 months)
-Student
-Carried out projects aimed at learning how to use React technology and its tools.
+  rs.school
+  October 2022 — December 2022 (3 months)
+  Student
+  Carried out projects aimed at learning how to use React technology and its tools.
 
 * RS School JS/Front-end course 👨‍🎓
-rs.school
-March 2022 — September 2022 (7 months)
-Student
-During the course, I carried out various projects using JS/TS, various libraries and tools. For example, commercial websites, news resources, browser games, a service for learning foreign languages and much more. You can see some examples of my work done during the training in **[my portfolio](fraterpavlo.github.io/my-portfolio/)**. You can see more of my educational projects in **[my github account](https://github.com/fraterpavlo)**
+  rs.school
+  March 2022 — September 2022 (7 months)
+  Student
+  During the course, I carried out various projects using JS/TS, various libraries and tools. For example, commercial websites, news resources, browser games, a service for learning foreign languages and much more. You can see some examples of my work done during the training in **[my portfolio](fraterpavlo.github.io/my-portfolio/)**. You can see more of my educational projects in **[my github account](https://github.com/fraterpavlo)**
 
 
 
@@ -42,6 +42,6 @@ Effective communication: Skilled in employing nonviolent communication technique
 Empathy: Ability to understand and empathize with users, customers, and colleagues to create user-centric products.
 Critical Thinking: Aptitude for evaluating situations, weighing options, and making well-reasoned decisions.
 
-### Languages
+### Languages:
 Russian 󠁧󠁢󠁥- Native speaker
 English - B1+ (desire to growth)
