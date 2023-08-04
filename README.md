@@ -24,7 +24,7 @@ I develop applications using React, Typescript, Next.JS, Redux and other technol
   rs.school  
   March 2022 — September 2022 (7 months)  
   Student  
-  During the course, I carried out various projects using JS/TS, various libraries and tools. For example, commercial websites, news resources, browser games, a service for learning foreign languages and much more. You can see some examples of my work done during the training in **[my portfolio](fraterpavlo.github.io/my-portfolio/)**. You can see more of my educational projects in **[my github account](https://github.com/fraterpavlo)**  
+  During the course, I carried out various projects using JS/TS, various libraries and tools. For example, commercial websites, news resources, browser games, a service for learning foreign languages and much more. You can see some examples of my work done during the training in **[my portfolio](https://fraterpavlo.github.io/my-portfolio/)**. You can see more of my educational projects in **[my github account](https://github.com/fraterpavlo)**  
 
 
 ## Hard skills:  
