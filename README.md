@@ -8,11 +8,17 @@
 I develop applications using React, Typescript, Next.JS, Redux and other technologies. I have a confident baggage of knowledge and skills, I have worked with many libraries, I know how to work with documentation and learn new skills. I am constantly developing and setting new goals for myself. Proficient in Git with the ability to recover commits after using git reset --hard. Ambitious and aspiring to become a full-stack product developer.
 
 ## Work Experience:
+* NDA
+  👨‍💻
+  July 2023 — until now
+  Frontend-developer  
+  Writing clean and efficient code, analysis of statistical data, development of new functions that increase the quality of user experience development of our own component library, documentation development debugging and fixing platform issues, development of unit tests
+
 * dev.family  
- Minsk, dev.family 👨‍💻  
- October 2022 — April 2023 (7 months)  
- Frontend-developer  
- Developed projects based on layouts and those tasks. Optimized the code to ensure that it works at an optimal level of performance. Debugging and fixing problems as they occur.  
+  Minsk, dev.family 👨‍💻  
+  October 2022 — April 2023 (7 months)  
+  Frontend-developer  
+  Developed projects based on layouts and those tasks. Optimized the code to ensure that it works at an optimal level of performance. Debugging and fixing problems as they occur.  
 
 * RS School React course 👨‍🎓  
   rs.school  
