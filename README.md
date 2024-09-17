@@ -5,7 +5,13 @@
 * email - **shukan1999@gmail.com**
 
 **Front-end developer (React.js)**
-I develop applications using React, Typescript, Next.JS, Redux and other technologies. I have a confident baggage of knowledge and skills, I have worked with many libraries, I know how to work with documentation and learn new skills. I am constantly developing and setting new goals for myself. Proficient in Git with the ability to recover commits after using git reset --hard. Ambitious and aspiring to become a full-stack product developer.
+Middle Frontend Developer with 2+ years of experience turning complex requirements into elegant front end 
+solutions. Specializing in designing, developing, and optimizing user interfaces and web applications using 
+React and Next.js.
+Committed to staying at the forefront of modern frontend technologies, continuously learning, and adopting best 
+practices.
+Skilled in collaborating with cross-functional teams through all phases of the software development lifecycle to 
+produce high-quality products that meet business objectives.
 
 ## Work Experience:
 * NDA  
