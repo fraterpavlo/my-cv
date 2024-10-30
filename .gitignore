@@ -1,0 +1,49 @@
+## NPM ##
+node_modules
+docker/dist
+public/locales
+
+npm-debug.log
+npm-debug.log.*
+
+test-reports
+coverage
+
+.env.local
+.env.*.local
+
+## IDEA ##
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+**/bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+## Maven ##
+target/
+
+## VSCODE ##
+.vscode
+
+## MacOS ##
+**/.DS_Store
+
+## Windows ##
+**/Thumbs.db
+
+## Temp ##
+~*
